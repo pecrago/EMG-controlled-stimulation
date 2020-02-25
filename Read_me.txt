@@ -10,4 +10,4 @@ main	run_EMG_control_sim
 			gsfm.m				estimates voluntary emg level in current frame
 			signalnoise.m			creates band-limited noise to add to EMG
 						
-		saves	EMG_controlled_stim_xxx.dat	The entire workspace of rampVol_arbStim
+		saves	EMG_controlled_stim_xxx.dat	The entire workspace of rampVol_arbStim, where xxx is stimulus rate
